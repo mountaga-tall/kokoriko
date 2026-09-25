@@ -1,0 +1,25 @@
+{
+  "name": "Kokoriko Street Grill",
+  "short_name": "Kokoriko",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#c75a1c",
+  "description": "Kokoriko — poulet, burgers, snacks et accompagnements. Commandez en ligne et envoyez votre panier par WhatsApp.",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
